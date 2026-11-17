@@ -72,7 +72,7 @@ function Hero() {
       <div className="hero-copy">
         <p className="eyebrow">Pizza artisanale · Ménilles</p>
         <h1>Fraîche.<br/><span>Généreuse.</span><br/>Dorée.</h1>
-        <p className="hero-lead">Des recettes préparées à la commande, une pâte bien dorée et des garnitures sans compromis.</p>
+      
         <div className="hero-actions">
           <a className="pill pill-gold" href="#carte">Découvrir notre carte <ArrowRight size={18} /></a>
           <a className="pill pill-ghost" href={phoneHref}><Phone size={18} /> Nous appeler</a>
